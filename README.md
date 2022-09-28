@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
     </br>
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 <h2>Skills
     </br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -17,8 +17,9 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
       <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lesh97)](hyyps://github.com/Lesh97/github-readme-stats)
+    </br>
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lesh97)](https://github.com/Lesh97/github-readme-stats)
 [![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=Lesh97)](https://github.com/Lesh97/github-readme-stats)
 
 
