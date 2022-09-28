@@ -3,7 +3,7 @@
 
 
 <h1>
-   <center>Hi I'm SuHyeon lee</center>
+   Hi I'm SuHyeon lee
 </h1>
 
 <h3>
