@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=30&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=100&section=header" />
 
 Hi I'm SuHyeon lee 
 
