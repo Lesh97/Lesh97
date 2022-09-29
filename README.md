@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
       <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
-
+    </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lesh97)](https://github.com/Lesh97/github-readme-stats)
 [![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=Lesh97)](https://github.com/Lesh97/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdiwl8295)](https://solved.ac/ehdiwl8295/)
