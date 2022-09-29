@@ -5,7 +5,7 @@
 
 <h2>Contact
     </br>
-    <a href="https://www.instagram.com/lesh_d_iary/" target="blank">
+    <a href="https://www.instagram.com/lesh_d_iary/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
     </a>
     </br>
