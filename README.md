@@ -22,7 +22,6 @@
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lesh97)](https://github.com/Lesh97/github-readme-stats)
 [![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=Lesh97)](https://github.com/Lesh97/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdiwl8295)](https://solved.ac/ehdiwl8295/)
 
 
 
