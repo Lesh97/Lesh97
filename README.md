@@ -21,7 +21,7 @@
     </br>
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lesh97)](https://github.com/Lesh97/github-readme-stats)
-[![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=Lesh97)](https://github.com/Lesh97/github-readme-stats)
+
 
 
 
